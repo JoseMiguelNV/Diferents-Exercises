@@ -1,0 +1,32 @@
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.deps.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.runtimeconfig.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.runtimeconfig.dev.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.dll
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.AssemblyInfo.cs
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.dll
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.genruntimeconfig.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.Form1.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.deps.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.runtimeconfig.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.runtimeconfig.dev.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.dll
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\bin\Debug\netcoreapp3.1\DeRomanosADecimalesForms.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.Form1.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.AssemblyInfo.cs
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.dll
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\DeRomanosADecimalesForms\DeRomanosADecimalesForms\obj\Debug\netcoreapp3.1\DeRomanosADecimalesForms.genruntimeconfig.cache
