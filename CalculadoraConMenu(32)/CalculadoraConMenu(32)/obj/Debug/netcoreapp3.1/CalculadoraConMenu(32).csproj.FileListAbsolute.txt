@@ -1,0 +1,32 @@
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).deps.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).runtimeconfig.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).runtimeconfig.dev.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).dll
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu_32_.Form1.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).AssemblyInfo.cs
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).dll
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).genruntimeconfig.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).deps.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).runtimeconfig.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).runtimeconfig.dev.json
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).dll
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\bin\Debug\netcoreapp3.1\CalculadoraConMenu(32).pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu_32_.Form1.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).AssemblyInfoInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).AssemblyInfo.cs
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).dll
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\PRIMER TRIMESTRE\CalculadoraConMenu(32)\CalculadoraConMenu(32)\obj\Debug\netcoreapp3.1\CalculadoraConMenu(32).genruntimeconfig.cache
