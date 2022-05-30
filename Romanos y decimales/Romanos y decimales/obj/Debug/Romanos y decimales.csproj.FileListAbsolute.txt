@@ -1,0 +1,22 @@
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\bin\Debug\Romanos y decimales.exe.config
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\bin\Debug\Romanos y decimales.exe
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\bin\Debug\Romanos y decimales.pdb
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.csproj.SuggestedBindingRedirects.cache
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos_y_decimales.Form1.resources
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos_y_decimales.Properties.Resources.resources
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.exe
+C:\Users\josem\OneDrive\Escritorio\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\bin\Debug\Romanos y decimales.exe.config
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\bin\Debug\Romanos y decimales.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\bin\Debug\Romanos y decimales.pdb
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.csproj.AssemblyReference.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.csproj.SuggestedBindingRedirects.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos_y_decimales.Form1.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos_y_decimales.Properties.Resources.resources
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.csproj.GenerateResource.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.csproj.CoreCompileInputs.cache
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.exe
+C:\Users\josem\OneDrive\Escritorio\DESARROLLO DE INTERFACES\EJERCICIOS DE RECUPERACION PRIMER TRIMESTE\PREPARACION DE RECUPERACION\Romanos y decimales\Romanos y decimales\obj\Debug\Romanos y decimales.pdb
